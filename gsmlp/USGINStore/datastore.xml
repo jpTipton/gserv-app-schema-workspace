@@ -1,0 +1,15 @@
+<dataStore>
+  <id>DataStoreInfoImpl--1ad68c68:14258951e5c:-7ffe</id>
+  <name>USGINStore</name>
+  <description>USGINStore</description>
+  <enabled>true</enabled>
+  <workspace>
+    <id>WorkspaceInfoImpl--1ad68c68:14258951e5c:-8000</id>
+  </workspace>
+  <connectionParameters>
+    <entry key="dbtype">app-schema</entry>
+    <entry key="url">file:workspaces\gsmlp\USGINStore\USGINStore.xml</entry>
+    <entry key="namespace">http://xmlns.geosciml.org/geosciml-portrayal/2.0</entry>
+  </connectionParameters>
+  <__default>false</__default>
+</dataStore>

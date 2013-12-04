@@ -1,0 +1,15 @@
+<dataStore>
+  <id>DataStoreInfoImpl--63fe40c7:1426c385d2f:-74a0</id>
+  <name>GeologyUnitStore</name>
+  <type>PostGIS</type>
+  <enabled>true</enabled>
+  <workspace>
+    <id>WorkspaceInfoImpl--1ad68c68:14258951e5c:-8000</id>
+  </workspace>
+  <connectionParameters>
+    <entry key="dbtype">app-schema</entry>
+    <entry key="url">file:workspaces\gsmlp\GeologyUnitStore\GeologicUnit.xml</entry>
+    <entry key="namespace">http://xmlns.geosciml.org/geosciml-portrayal/2.0</entry>
+  </connectionParameters>
+  <__default>false</__default>
+</dataStore>

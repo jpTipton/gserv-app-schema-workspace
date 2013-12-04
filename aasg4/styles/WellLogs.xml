@@ -1,0 +1,11 @@
+<style>
+  <id>StyleInfoImpl-WellLogs</id>
+  <name>WellLogs</name>
+  <workspace>
+    <id>WorkspaceInfoImpl-aasg4</id>
+  </workspace>
+  <sldVersion>
+    <version>1.0.0</version>
+  </sldVersion>
+  <filename>WellLogs.sld</filename>
+</style>

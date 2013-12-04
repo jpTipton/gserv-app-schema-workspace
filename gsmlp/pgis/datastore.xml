@@ -1,0 +1,32 @@
+<dataStore>
+  <id>DataStoreInfoImpl-4823fb3f:14290224f50:-7fff</id>
+  <name>pgis</name>
+  <description>test</description>
+  <type>PostGIS</type>
+  <enabled>true</enabled>
+  <workspace>
+    <id>WorkspaceInfoImpl--1ad68c68:14258951e5c:-8000</id>
+  </workspace>
+  <connectionParameters>
+    <entry key="port">5432</entry>
+    <entry key="Connection timeout">20</entry>
+    <entry key="passwd">crypt1:U38vW3mNbAhxf2kIVCCmLQ==</entry>
+    <entry key="dbtype">postgis</entry>
+    <entry key="host">localhost</entry>
+    <entry key="validate connections">true</entry>
+    <entry key="encode functions">false</entry>
+    <entry key="max connections">10</entry>
+    <entry key="database">postgis</entry>
+    <entry key="namespace">http://xmlns.geosciml.org/geosciml-portrayal/2.0</entry>
+    <entry key="schema">public</entry>
+    <entry key="Loose bbox">true</entry>
+    <entry key="Expose primary keys">true</entry>
+    <entry key="fetch size">1000</entry>
+    <entry key="Max open prepared statements">50</entry>
+    <entry key="preparedStatements">false</entry>
+    <entry key="Estimated extends">true</entry>
+    <entry key="user">gserv</entry>
+    <entry key="min connections">1</entry>
+  </connectionParameters>
+  <__default>false</__default>
+</dataStore>

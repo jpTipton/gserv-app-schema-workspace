@@ -1,0 +1,11 @@
+<style>
+  <id>StyleInfoImpl-ThermalConductivity</id>
+  <name>ThermalConductivity</name>
+  <workspace>
+    <id>WorkspaceInfoImpl-aasg2</id>
+  </workspace>
+  <sldVersion>
+    <version>1.0.0</version>
+  </sldVersion>
+  <filename>ThermalConductivity.sld</filename>
+</style>

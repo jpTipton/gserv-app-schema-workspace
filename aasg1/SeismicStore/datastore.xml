@@ -1,0 +1,15 @@
+<dataStore>
+  <id>DataStoreInfoImpl--SeismicEvent002</id>
+  <name>SeismicStore</name>
+  <description>SeismicStore</description>
+  <enabled>true</enabled>
+  <workspace>
+    <id>WorkspaceInfoImpl-aasg1</id>
+  </workspace>
+  <connectionParameters>
+    <entry key="dbtype">app-schema</entry>
+    <entry key="url">file:workspaces\aasg1\SeismicStore\seismicevent.xml</entry>
+    <entry key="namespace">http://stategeothermaldata.org/uri-gin/aasg/xmlschema/hypocenter/1.7</entry>
+  </connectionParameters>
+  <__default>false</__default>
+</dataStore>

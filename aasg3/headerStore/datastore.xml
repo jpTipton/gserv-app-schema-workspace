@@ -1,0 +1,15 @@
+<dataStore>
+  <id>DataStoreInfoImpl--wh001</id>
+  <name>tcStore</name>
+  <description>tcStore</description>
+  <enabled>true</enabled>
+  <workspace>
+    <id>WorkspaceInfoImpl-aasg3</id>
+  </workspace>
+  <connectionParameters>
+    <entry key="dbtype">app-schema</entry>
+    <entry key="url">file:workspaces\aasg3\headerStore\wellHeader.xml</entry>
+    <entry key="namespace">http://stategeothermaldata.org/uri-gin/aasg/xmlschema/wellheader/1.5</entry>
+  </connectionParameters>
+  <__default>false</__default>
+</dataStore>
