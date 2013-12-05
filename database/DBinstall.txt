@@ -1,0 +1,19 @@
+This data dump includes all of the data needed to recreate this workspace. I was using PostgreSQL 9.1 but it shouldn't matter. Make sure to have PostGIS installed
+
+Requirements: 
+
+PostgreSQL
+PostGIS
+
+
+Install Steps:
+
+1) Open a terminal (cmd)
+2) Locate your PostgreSQL directory and find the bin\ folder. Mine was here: C:\Program Files\PostgreSQL\9.1\bin\ . It will be in the same directory as your pgAdmin3.exe. Either:
+	A) Add this path to the Environmental Variables path (Also Close and reopen terminal)
+	B) cd C:\Path\to\PostgreSQL\x.x\bin\	(ex: C:\Program Files\PostgreSQL\9.1\bin\)
+
+3)Type in terminal: psql -U postgres -d postgis -f C:\path\to\pg.sql
+	-U = username
+	-d = dbname	(use postgis or it won't work with app-schema definitions)
+	-f = path to sql dump file
