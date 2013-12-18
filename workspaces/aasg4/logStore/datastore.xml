@@ -8,7 +8,7 @@
   </workspace>
   <connectionParameters>
     <entry key="dbtype">app-schema</entry>
-    <entry key="url">file:workspaces\aasg4\logStore\WellLog.xml</entry>
+    <entry key="url">file:workspaces/aasg4/logStore/WellLog.xml</entry>
     <entry key="namespace">http://stategeothermaldata.org/uri-gin/aasg/xmlschema/welllog/0.8</entry>
   </connectionParameters>
   <__default>false</__default>

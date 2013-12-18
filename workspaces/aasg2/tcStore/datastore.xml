@@ -8,7 +8,7 @@
   </workspace>
   <connectionParameters>
     <entry key="dbtype">app-schema</entry>
-    <entry key="url">file:workspaces\aasg2\tcStore\thermalconductivity.xml</entry>
+    <entry key="url">file:workspaces/aasg2/tcStore/thermalconductivity.xml</entry>
     <entry key="namespace">http://stategeothermaldata.org/uri-gin/aasg/xmlschema/thermalconductivity/2.0</entry>
   </connectionParameters>
   <__default>false</__default>
