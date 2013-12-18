@@ -1,7 +1,7 @@
 gserv-app-schema-workspace
 ==========================
 
-Geoserver App-Schema Example For USGIN and GSLMP
+Geoserver 2.2 App-Schema Example For USGIN and GSLMP
 
 This project includes the data and workspaces required to successfully use an app-schema with Geoserver. Specificaly, to use an app-schema with the USGIN Geothermal project.
   
@@ -16,7 +16,7 @@ PostGIS
   
 <h3>Original Environment:</h3>
   
-Windows 7  
+Windows 7  (Also tested on Ubuntu 12.04 32-bit Desktop)
 GeoServer 2.2  
 PostgreSQL 9.1  
   
@@ -28,3 +28,5 @@ PostgreSQL 9.1
 -<b>Restart the GeoServer Service</b>
   
 Everything should be ready to go.
+
+For a more in depth look at these workspaces go to <a href='http://lab.usgin.org/groups/best-practices-usgin-web-service-hosting/help-my-geoserver-doesn-t-my-app-schema-0'>http://lab.usgin.org/groups/best-practices-usgin-web-service-hosting/help-my-geoserver-doesn-t-my-app-schema-0</a>
